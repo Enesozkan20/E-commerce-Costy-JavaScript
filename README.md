@@ -11,6 +11,8 @@ It shows products and lets users add them to the cart using JavaScript for inter
 # 📺 Preview 
 ![E-CommerceMainPage12weekendadultJS-GoogleChrome2025-08-0820-01-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9ec18043-ef6e-4104-8d63-5cd5d207a6aa)
 
+# Live Demo 👇 
+https://e-commerce-12th-season-adults-weekend.netlify.app/
 
 ## ✨ What It Does
 - Shows products with photos and prices
