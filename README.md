@@ -9,7 +9,7 @@ This project is a Costy e-commerce site made with HTML, CSS, and JavaScript.
 It shows products and lets users add them to the cart using JavaScript for interactivity in a shopping page.
 
 # 📺 Preview 
-![Uploading E-CommerceMainPage12weekendadultJS-GoogleChrome2025-08-0820-01-03-ezgif.com-video-to-gif-converter.gif…]()
+![E-CommerceMainPage12weekendadultJS-GoogleChrome2025-08-0820-01-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9ec18043-ef6e-4104-8d63-5cd5d207a6aa)
 
 
 ## ✨ What It Does
